@@ -1,0 +1,12 @@
+body {
+  background-image: url(../images/tile.png);
+  /* background-repeat: no-repeat; */
+}
+
+.jumbotron {
+  background-color: white;
+}
+#addTrain {
+  background-color: rgb(239, 235, 225);
+  border: none;
+}

@@ -62,7 +62,6 @@ $(document).ready(function () {
             $("<td>").text(away)
         );
 
-        // Append the new row to the table
         $("tbody").append(newRow);
 
 
